@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "title": "Getting Started with Node.js",
+    "content": "This post covers the basics of setting up a Node.js project and writing your first server.",
+    "author": "Mee",
+    "createdAt": "2025-04-12T08:18:56.882Z"
+  },
+  {
+    "id": 2,
+    "title": "Understanding Express Middleware",
+    "content": "Middleware functions are essential in Express. Learn how they work and how to use them effectively.",
+    "author": "Mee",
+    "createdAt": "2025-04-12T08:20:16.918Z"
+  },
+  {
+    "id": 3,
+    "title": "Using Joi for Data Validation",
+    "content": "Joi is a powerful tool for validating input. This post demonstrates practical examples for APIs.",
+    "author": "Mee",
+    "createdAt": "2025-04-12T08:25:41.979Z"
+  },
+  {
+    "id": 4,
+    "title": "Creating REST APIs with Express",
+    "content": "Let’s build a simple RESTful API using Express.js and explore common HTTP methods.",
+    "author": "Mee",
+    "createdAt": "2025-04-12T08:33:34.720Z"
+  },
+  {
+    "id": 5,
+    "title": "Input Sanitization with striptags",
+    "content": "Learn how to sanitize user inputs using the striptags package to prevent XSS attacks.",
+    "author": "Hasan",
+    "createdAt": "2025-04-12T09:16:43.420Z"
+  },
+  {
+    "id": 6,
+    "title": "Implementing Global Error Handling in Express",
+    "content": "This post explains how to create a global error handler in Express for cleaner code and better UX.",
+    "author": "Hasan",
+    "createdAt": "2025-04-12T09:18:08.989Z"
+  },
+  {
+    "id": 7,
+    "title": "Working with JSON Files in Node.js",
+    "content": "Sometimes you need simple storage. Here's how to read/write JSON files using the fs module.",
+    "author": "Kamrul",
+    "createdAt": "2025-04-12T09:21:56.755Z"
+  },
+  {
+    "id": 8,
+    "title": "Mastering Async/Await in JavaScript",
+    "content": "Learn how to simplify asynchronous code in JavaScript using async and await, making your code cleaner and easier to read.",
+    "author": "Rafi",
+    "createdAt": "2025-04-12T09:33:22.470Z"
+  }
+]
